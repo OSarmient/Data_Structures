@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BinaryHeap",
+            "request": "launch",
+            "mainClass": "BinaryHeap",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch PilasColasUN",
+            "request": "launch",
+            "mainClass": "PilasColasUN",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch DobleEnlazada",
+            "request": "launch",
+            "mainClass": "DobleEnlazada",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParcialPractico",
+            "request": "launch",
+            "mainClass": "ParcialPractico",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClaseEstructuras1",
+            "request": "launch",
+            "mainClass": "ClaseEstructuras1",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TallerOrdenamiento",
+            "request": "launch",
+            "mainClass": "TallerOrdenamiento",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "SoloJava_25e6d4bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeTravesal",
+            "request": "launch",
+            "mainClass": "TreeTravesal",
+            "projectName": "SoloJava_25e6d4bb"
+        }
+    ]
+}
